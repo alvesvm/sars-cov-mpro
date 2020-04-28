@@ -28,4 +28,4 @@ The outbreak of a novel human coronavirus (SARS-CoV-2) has evolved into global h
 
 ## More information
 For more information, please refer to our paper:
-Bobrowski, T. _et al._ Computational models identify several FDA approved or experimental drugs as putative agents against SARS-CoV-2. ChemRxiv, **2020**.
+Bobrowski, T.; Alves, V.; Melo-Filho, C. C.; Korn, D.; Auerbach, S. S.; Schmitt, C.; Muratov, E.; Tropsha, A.. Computational Models Identify Several FDA Approved or Experimental Drugs as Putative Agents Against Sars-cov-2, **2020**. *ChemRxiv. Preprint.* https://doi.org/10.26434/chemrxiv.12153594.v1
