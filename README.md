@@ -46,5 +46,14 @@ We found that 11 out of 42 compounds identified by our models as computational h
 |     Vinblastine      |     NCGC00263548-23    |     approved                         |     Inactive          |
 
 ## More information
-For more information, please refer to our paper:
-Alves, Vinicius M., Tesia Bobrowski, Cleber C. Melo‐Filho, Daniel Korn, Scott Auerbach, Charles Schmitt, Eugene N. Muratov, and Alexander Tropsha. **2020**. QSAR Modeling of SARS‐CoV M pro Inhibitors Identifies Sufugolix, Cenicriviroc, Proglumetacin, and Other Drugs as Candidates for Repurposing against SARS‐CoV‐2. *Molecular Informatics*. *Just accep* (August): minf.202000113. https://doi.org/10.1002/minf.202000113.
+For more information, please refer to our paper:<br>
+Alves, V. M.; Bobrowski, T.; Melo‐Filho, C. C.; Korn, D.; Auerbach, S.; Schmitt, C.; Muratov, E. N.; Tropsha, A. QSAR Modeling of SARS‐CoV M pro Inhibitors Identifies Sufugolix, Cenicriviroc, Proglumetacin, and Other Drugs as Candidates for Repurposing against SARS‐CoV‐2. *Mol. Inform.* **2021**, *40* (1), 2000113. https://doi.org/10.1002/minf.202000113.
+
+## Acknowledgements
+
+This work was sponsored by the [UNC Eshelman School of Pharmacy](https://pharmacy.unc.edu/) of the [University of North Carolina at Chapel Hill](https://www.unc.edu/) in collaboration with the [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/).
+<p align="middle">
+  <img src="./docs/ESOP.png" alt="ESOP" width="500px">
+  <img src="./docs/niehs.png" alt="UNC" width="300px">
+  <br>
+</p>
