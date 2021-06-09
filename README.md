@@ -54,6 +54,7 @@ Alves, V. M.; Bobrowski, T.; Melo‐Filho, C. C.; Korn, D.; Auerbach, S.; Schmit
 This work was sponsored by the [UNC Eshelman School of Pharmacy](https://pharmacy.unc.edu/) of the [University of North Carolina at Chapel Hill](https://www.unc.edu/) in collaboration with the [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/).
 <p align="middle">
   <img src="./docs/ESOP.png" alt="ESOP" width="500px">
-  <img src="./docs/niehs.png" alt="UNC" width="300px">
+  <img src="./docs/UNC.jpg" alt="UNC" width="280px">
+  <img src="./docs/niehs.png" alt="NIEHS" width="85px">
   <br>
 </p>
